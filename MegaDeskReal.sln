@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaDeskReal", "MegaDeskReal\MegaDeskReal.csproj", "{127EA18D-F86D-4A95-B0B6-CDAAE38ECCE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127EA18D-F86D-4A95-B0B6-CDAAE38ECCE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127EA18D-F86D-4A95-B0B6-CDAAE38ECCE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127EA18D-F86D-4A95-B0B6-CDAAE38ECCE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127EA18D-F86D-4A95-B0B6-CDAAE38ECCE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A84AD1-14E3-49F8-BEC3-F84604262025}
+	EndGlobalSection
+EndGlobal
