@@ -16,5 +16,19 @@ namespace MegaDeskReal
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mainMenu_Click(object sender, EventArgs e)
+        {
+            var mainMenu = new MainMenu();
+            mainMenu.Tag = this;
+            mainMenu.Show();
+
+            this.Hide();
+        }
     }
 }
