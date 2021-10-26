@@ -1,7 +1,7 @@
 ﻿
 namespace MegaDeskReal
 {
-    partial class Form1
+    partial class MainMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -29,10 +29,17 @@ namespace MegaDeskReal
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // MainMenu
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Name = "MainMenu";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
